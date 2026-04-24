@@ -1,0 +1,10 @@
+{
+  "experimental": {
+    "extensionReloading": true,
+    "modelSteering": true,
+    "autoMemory": true
+  },
+  "general": {
+    "devtools": true
+  }
+}
